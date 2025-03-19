@@ -1,0 +1,9 @@
+Dockerfile
+.git
+.github
+.gitignore
+LICENSE
+README.md
+test.py
+ecs-task-definition.json
+requirements.txt
